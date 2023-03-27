@@ -1,7 +1,7 @@
 #include<iostream>
 
-// Точка входа
+// Entry point
 int main(){
-	// Выводим "Hello, world!\n" в стандартный поток вывода
+	// Print "Hello, world!\n" to standard output stream
 	std::cout << "Hello, world!" << std::endl;
 }
